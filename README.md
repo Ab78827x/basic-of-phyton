@@ -1,1 +1,1 @@
-# basic-of-phyton
+# basic-of-python
